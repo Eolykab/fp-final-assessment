@@ -2,9 +2,9 @@ name:                fp-final-assessment
 version:             0.1.0.0
 github:              "githubuser/fp-final-assessment"
 license:             BSD3
-author:              "Author name here"
-maintainer:          "example@example.com"
-copyright:           "2020 Author name here"
+author:              "Eljoenai Muninga"
+maintainer:          "eolykab@yahoo.co.za"
+copyright:           "2020 Eljoenai Muninga"
 
 extra-source-files:
 - README.md
