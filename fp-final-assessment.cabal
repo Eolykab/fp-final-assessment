@@ -4,16 +4,16 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: ec5dc7d8179b8e07687156cd5ad8fda702d5d3ee5ec0d5b49eca84d4e819be08
+-- hash: c18bbef754378cee5966888bf0433ed3320a1a258e3efb636de75c37992599e2
 
 name:           fp-final-assessment
 version:        0.1.0.0
 description:    Please see the README on GitHub at <https://github.com/githubuser/fp-final-assessment#readme>
 homepage:       https://github.com/githubuser/fp-final-assessment#readme
 bug-reports:    https://github.com/githubuser/fp-final-assessment/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2020 Author name here
+author:         Eljoenai Muninga
+maintainer:     eolykab@yahoo.co.za
+copyright:      2020 Eljoenai Muninga
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
@@ -27,7 +27,9 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      DataStructures,
+      InputOutput,
+      Process
   other-modules:
       Paths_fp_final_assessment
   hs-source-dirs:

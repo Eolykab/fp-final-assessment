@@ -1,6 +1,8 @@
 module Main where
 
-import Lib
+import DataStructures
+import Process
 
-main :: IO ()
-main = someFunc
+main :: IO()
+main = do
+  cs <- readConfiguration "assets/Config.txt"
